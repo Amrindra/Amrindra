@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Amrindra
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack web develoment 
-- 💞️ I’m looking to collaborate on some small projects
 - 📫 How to reach me ...
 
 <!---
