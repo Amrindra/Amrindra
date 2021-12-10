@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amrindra
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack web develoment 
+- 👀 I’m a very passionate Web Developer
+- 🌱 If you need someone to collaborate with your projects, please don't hesitate to contact me  
 - 📫 Reach me out on LinkedIn: https://www.linkedin.com/in/amrindra-ouk-0960161a4/
 
 <!---
