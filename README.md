@@ -24,10 +24,9 @@ Bootstrap.
   <img align="center" src="https://img.icons8.com/color/100/000000/nodejs.png" alt="" height="60" width="60" />
   <img align="center" src="https://img.icons8.com/color/100/000000/mongodb.png" height="60" width="60" />
   <img align="center" src="https://img.icons8.com/color/100/000000/typescript.png" height="60" width="60" />
+  <img align="center" src="https://img.icons8.com/color/100/000000/python--v1.png" alt="" height="40" width="40" />
 </p>
-<p align="left">
-  <h4>Basic knowledge of <img align="center" src="https://img.icons8.com/color/100/000000/python--v1.png" alt="" height="40" width="40" /></h4>
-</p>
+
 
 <!---
 Amrindra/Amrindra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
