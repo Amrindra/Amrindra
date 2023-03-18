@@ -19,11 +19,11 @@ Bootstrap.
   <img align="center" src="https://img.icons8.com/color/100/000000/css3.png" alt="" height="60" width="60" />
   <img align="center" src="https://img.icons8.com/color/100/000000/javascript--v1.png" height="60" width="60" />
   <img align="center" src="https://img.icons8.com/plasticine/100/000000/react.png" height="60" width="60" />
+  <img align="center" src="https://img.icons8.com/color/100/000000/typescript.png" height="60" width="60" />
   <img align="center" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" height="60" width="60" />
   <img align="center" src="https://img.icons8.com/color/100/000000/redux.png" height="60" width="60" />
   <img align="center" src="https://img.icons8.com/color/100/000000/nodejs.png" alt="" height="60" width="60" />
   <img align="center" src="https://img.icons8.com/color/100/000000/mongodb.png" height="60" width="60" />
-  <img align="center" src="https://img.icons8.com/color/100/000000/typescript.png" height="60" width="60" />
   <img align="center" src="https://img.icons8.com/color/100/000000/python--v1.png" alt="" height="40" width="40" />
 </p>
 
