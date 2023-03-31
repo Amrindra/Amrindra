@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Amrindra 
 - 3+ years of experience as a Web/Application Developer and coding
 with analytical programming using JS, HTML, CSS, and Python.
-- Extensive years of experience in all phases of SDLC including design,
-development, testing, implementation and support using Python.
 - Proficient in HTML, CSS, JavaScript, and React, with a passion for
 creating intuitive and visually appealing user experiences.
-- Good Knowledge of Python and MongoDB.
+- Extensive years of experience in all phases of SDLC including design,
+development, testing, implementation and support using Python.
+- Good Knowledge of Python and Node.js.
 - Experience in designing and implementing responsive web designs and
 creating custom animations.
 - • Well versed with design and development of presentation layer for
