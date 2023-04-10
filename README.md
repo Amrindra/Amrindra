@@ -3,8 +3,8 @@
 with analytical programming using JS, HTML, CSS, and Python.
 - Proficient in HTML, CSS, JavaScript, and React, with a passion for
 creating intuitive and visually appealing user experiences.
-- Extensive years of experience in all phases of SDLC including design,
-development, testing, implementation and support using Python.
+- Great knowledge in all phases of SDLC including design,
+development, testing, implementation and support.
 - Good Knowledge of Python and Node.js.
 - Experience in designing and implementing responsive web designs and
 creating custom animations.
