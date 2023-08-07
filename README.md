@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Amrindra 
 - 3+ years of experience as a Web/Application Developer and coding
-with analytical programming using JS, HTML, CSS, and Python.
+with analytical programming using JavaScript, HTML, CSS, and Python.
 - Proficient in HTML, CSS, JavaScript, and React, with a passion for
 creating intuitive and visually appealing user experiences.
-- Great knowledge in all phases of SDLC including design,
-development, testing, implementation and support.
-- Good Knowledge of Python and Node.js.
+- Great knowledge of all phases of SDLC, including design,
+development, testing, implementation, and support.
+- Good Knowledge of Python, Node.js, SQL, and MySql.
 - Experience in designing and implementing responsive web designs and
 creating custom animations.
-- • Well versed with design and development of presentation layer for
+- Well-versed in the design and development of presentation layers for
 web applications using technologies like HTML, CSS, JavaScript, and
 Bootstrap.
 - My portfolio site: https://amrindraouk.com/
@@ -25,6 +25,8 @@ Bootstrap.
   <img align="center" src="https://img.icons8.com/color/100/000000/nodejs.png" alt="" height="60" width="60" />
   <img align="center" src="https://img.icons8.com/color/100/000000/mongodb.png" height="60" width="60" />
   <img align="center" src="https://img.icons8.com/color/100/000000/python--v1.png" alt="" height="40" width="40" />
+  <img align="center" src="https://img.icons8.com/color/48/my-sql.png" alt="" height="40" width="40" />
+  <img align="center" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="" height="40" width="40" />
 </p>
 
 
