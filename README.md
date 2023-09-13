@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Amrindra 
-- 3+ years of experience as a Web/Application Developer and coding
-with analytical programming using JavaScript, HTML, CSS, and Python.
+- A dedicated Web Developer who thoroughly enjoys coding with a focus on analytical programming. My expertise lies in JavaScript, HTML, CSS, and React.js.
 - Proficient in HTML, CSS, JavaScript, and React, with a passion for
 creating intuitive and visually appealing user experiences.
 - Great knowledge of all phases of SDLC, including design,
@@ -9,8 +8,8 @@ development, testing, implementation, and support.
 - Experience in designing and implementing responsive web designs and
 creating custom animations.
 - Well-versed in the design and development of presentation layers for
-web applications using technologies like HTML, CSS, JavaScript, and
-Bootstrap.
+web applications using technologies like HTML, CSS, JavaScript, and React.
+- Good at utilizing CSS frameworks such as TailwindCSS, Chakra UI, Material UI, and Bootstrap.
 - My portfolio site: https://amrindraouk.com/
 
 # My Technical Skills
