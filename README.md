@@ -15,7 +15,8 @@ web applications using technologies like HTML, CSS, JavaScript, and React.
 # My Technical Skills
 <p align="left">
   <img align="center" src="https://img.icons8.com/color/100/000000/python--v1.png" alt="" height="40" width="40" />
-  <img align="center" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="" height="40" width="40" />
+<!--   <img align="center" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="" height="40" width="40" /> -->
+  <img align="center" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-SQL-development-files-those-icons-flat-those-icons.png" height="40" width="40" />
   <img align="center" src="https://img.icons8.com/color/48/my-sql.png" alt="" height="40" width="40" />
   <img align="center" src="https://img.icons8.com/color/100/000000/html-5--v1.png" alt="" height="60" width="60" />
   <img align="center" src="https://img.icons8.com/color/100/000000/css3.png" alt="" height="60" width="60" />
