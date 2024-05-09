@@ -10,7 +10,7 @@ creating custom animations.
 - Well-versed in the design and development of presentation layers for
 web applications using technologies like HTML, CSS, JavaScript, and React.
 - Good at utilizing CSS frameworks such as TailwindCSS, Chakra UI, Material UI, and Bootstrap.
-- My portfolio site: https://amrindraouk.com/
+- My portfolio site: https://amrindraouk.dev/
 
 # My Technical Skills
 <p align="left">
