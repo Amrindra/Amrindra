@@ -4,7 +4,7 @@
 creating intuitive and visually appealing user experiences.
 - Great knowledge of all phases of SDLC, including design,
 development, testing, implementation, and support.
-- Good Knowledge of Python, Node.js, SQL, and MySql.
+- Possess experience in handling legacy codebases, including COBOL, and have effectively converted them into Python.
 - Experience in designing and implementing responsive web designs and
 creating custom animations.
 - Well-versed in the design and development of presentation layers for
@@ -29,6 +29,10 @@ web applications using technologies like HTML, CSS, JavaScript, and React.
   <img align="center" src="https://img.icons8.com/color/100/000000/mongodb.png" height="60" width="60" />
 </p>
 
+# Frameworks
+- React.js
+- Express.js
+- Django
 
 <!---
 Amrindra/Amrindra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
