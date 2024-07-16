@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Amrindra 
-- A dedicated developer who thoroughly enjoys coding with analytical programming using JS, Python and SQL
+- A dedicated software engineer who thoroughly enjoys coding with analytical programming using JS, Python and SQL
 - Proficient in Python, SQL, HTML, CSS, JavaScript, and React, with a passion for
 creating intuitive and visually appealing user experiences.
 - Great knowledge of all phases of SDLC, including design,
