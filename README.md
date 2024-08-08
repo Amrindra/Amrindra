@@ -28,7 +28,7 @@ web applications using technologies like HTML, CSS, JavaScript, and React.
   <img align="center" src="https://img.icons8.com/color/100/000000/mongodb.png" height="60" width="60" />
 </p>
 
-# Certificaitons
+# Certifications
 <p align="left">
   <a href="https://www.credly.com/earner/earned/badge/b1883724-8c79-4ecd-8c5c-0d3cfb5bf3cd" target="_blank">
     <img align="center" src="https://images.credly.com/size/340x340/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" alt="" height="150" width="150" />
