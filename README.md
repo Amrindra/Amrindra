@@ -30,7 +30,7 @@ web applications using technologies like HTML, CSS, JavaScript, and React.
 
 # Certifications
 <p align="left">
-  <a href="https://www.credly.com/earner/earned/badge/b1883724-8c79-4ecd-8c5c-0d3cfb5bf3cd" target="_blank">
+  <a href="https://www.credly.com/badges/b1883724-8c79-4ecd-8c5c-0d3cfb5bf3cd/public_url" target="_blank">
     <img align="center" src="https://images.credly.com/size/340x340/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" alt="" height="150" width="150" />
   <a/>
   <a href="https://www.credly.com/earner/earned/badge/8e8e61ac-6b9b-47de-a9db-03c67b1c651d" target="_blank">
