@@ -30,6 +30,9 @@ web applications using technologies like HTML, CSS, JavaScript, and React.
 
 # Certifications
 <p align="left">
+   <a href="https://www.credly.com/earner/earned/badge/deabf199-5192-49f6-80fc-74db33d31909" target="_blank">
+    <img align="center" src="https://images.credly.com/size/340x340/images/b9f5054b-0e86-426a-8e8c-5e304f256ea8/image.png" alt="" height="150" width="150" />
+  <a/>
   <a href="https://www.credly.com/badges/b1883724-8c79-4ecd-8c5c-0d3cfb5bf3cd/public_url" target="_blank">
     <img align="center" src="https://images.credly.com/size/340x340/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" alt="" height="150" width="150" />
   <a/>
@@ -41,6 +44,9 @@ web applications using technologies like HTML, CSS, JavaScript, and React.
   <a/>
   <a href="https://www.credly.com/earner/earned/badge/263330e1-ad75-4792-9569-b479590ad180" target="_blank">
     <img align="center" src="https://images.credly.com/size/340x340/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" alt="" height="150" width="150" />
+  <a/>
+     <a href="https://www.credly.com/earner/earned/badge/87da9779-5cff-40f1-a133-7c868ff22148" target="_blank">
+    <img align="center" src="https://images.credly.com/size/340x340/images/cc2a62dd-ab98-4ae6-a6a7-48de96672ff8/image.png" alt="" height="150" width="150" />
   <a/>
   <a href="https://www.credly.com/earner/earned/badge/8019243c-46b4-48f6-90f5-bfac4bd60253" target="_blank">
     <img align="center" src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="" height="150" width="150" />
