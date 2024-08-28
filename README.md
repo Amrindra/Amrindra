@@ -28,6 +28,20 @@ web applications using technologies like HTML, CSS, JavaScript, and React.
   <img align="center" src="https://img.icons8.com/color/100/000000/mongodb.png" height="60" width="60" />
 </p>
 
+# Frameworks
+- React.js
+- Express.js
+- Django
+
+# Tools:
+- PyCharm, VsCode
+- Postman, Insomnia
+- Docker, Kubernetes, Jenkins
+- JIRA, Bitbucket
+
+# Methodologies:
+- SDLC, Agile, Sprint
+
 # Certifications & Badges
 <p align="left">
    <a href="https://www.credly.com/earner/earned/badge/deabf199-5192-49f6-80fc-74db33d31909" target="_blank">
@@ -55,11 +69,6 @@ web applications using technologies like HTML, CSS, JavaScript, and React.
     <img align="center" src="https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" alt="" height="150" width="150" />
   <a/>
 </p>
-
-# Frameworks
-- React.js
-- Express.js
-- Django
 
 <!---
 Amrindra/Amrindra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
